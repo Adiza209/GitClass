@@ -2,3 +2,4 @@ Name           CA         Exam         Total
 Adiza          90          95           93  
 Victoria       80          89           88
 Sharon         70          75           73
+Jane           50          25           37
